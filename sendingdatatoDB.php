@@ -115,7 +115,7 @@
                 
                 ?>
                 
-                <form action="introduction.php" method="post">
+                <form action="sendingdatatoDB.php" method="post">
                     <div class="form-group">
                         <label for="ID">ID</label>
                         <input type="number" name="ID" id="ID" placeholder="ID" class="form-control" maxlength="4"> <!--maxlength property to limit the input value-->
